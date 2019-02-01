@@ -1,11 +1,16 @@
 _repo: The-Life-of-Bismarck-Private-and-Political-With-Descriptive-Notices-of-His-Ancestry_58776
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58776-h/images/cover.jpg
 creator:
   author:
     agent_name: Hesekiel, George
     gutenberg_agent_id: '50147'
     url: http://www.gutenberg.org/2009/agents/50147
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58776#The-Life-of-Bismarck-Private-and-Political-With-Descriptive-Notices-of-His-Ancestry
 gutenberg_issued: '2019-01-27'
 gutenberg_type: Text
 identifiers:
